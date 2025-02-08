@@ -1,0 +1,14 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+ 
+    "test": "npx cypress open", 
+    "run": "npx cypress run"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
